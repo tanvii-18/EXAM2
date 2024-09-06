@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-
+//WAP to find third angle of tringle.
 void main()
 {
 	int firstA,secondA,thirdA;
