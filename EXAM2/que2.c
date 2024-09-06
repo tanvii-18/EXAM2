@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-
+//WAP to read the age of person and cheack if he/she eligible for vote.
 void main()
 {
 	int age;
