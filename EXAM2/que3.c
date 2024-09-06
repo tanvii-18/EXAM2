@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-
+//WAP to printf reverse number using for loop.
 void main()
 {
 	int n,i=1;
