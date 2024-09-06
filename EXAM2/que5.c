@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-
+//WAP the programme to find sum of first digit and last digit using while loop,
 void main()
 {
 	int n;
